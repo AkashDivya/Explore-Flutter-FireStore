@@ -35,7 +35,12 @@ I kept the code as original as possible with prober Commented Guides for anyone 
     
     _'yourDirectory'\exploreapp\android\app_
     
-  - Now Populate your FireStore Database
+  - Now Populate your FireStore Database like examples below:
+  
+    ![Firebase_Example_01](https://github.com/AkashDivya/Explore-Flutter-FireStore/blob/master/images/Firestore%20Database%20(1).png)
+    ![Firebase_Example_02](https://github.com/AkashDivya/Explore-Flutter-FireStore/blob/master/images/Firestore%20Database%20(2).png)
+    ![Firebase_Example_03](https://github.com/AkashDivya/Explore-Flutter-FireStore/blob/master/images/Firestore%20Database%20(3).png)
+    ![Firebase_Example_04](https://github.com/AkashDivya/Explore-Flutter-FireStore/blob/master/images/Firestore%20Database%20(4).png)
   - Now go to [Google API](https://console.developers.google.com/) and Enable **Maps SDK for Android** and get thi API Key.
   - Paste this API Key in the pecific area where I mentioned **"Your Map API Key here"** in **AndroidManifest.xml** file which can be found in _'yourDirectory'\exploreapp\android\app\src\main\_ like written below:
     ```
@@ -46,9 +51,14 @@ I kept the code as original as possible with prober Commented Guides for anyone 
     ```
   - Now you can Finally run VS-Code or Android Studio whichever you prefer and get the flutter packages and just run the App.
   
-# Check the APK
+# Download the APK
 
 Check the apk files included in this Repo. Install them on your device to test it.
+
+  [Download arm64 APK](https://raw.githubusercontent.com/AkashDivya/Explore-Flutter-FireStore/master/release%20builds/app-arm64-v8a-release.apk)
+  
+  [Download armeabi APK](https://raw.githubusercontent.com/AkashDivya/Explore-Flutter-FireStore/master/release%20builds/app-armeabi-v7a-release.apk)
+
 
 # App Demonstration Video
 
