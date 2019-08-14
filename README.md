@@ -3,6 +3,8 @@
 This is a Flutter App with Firebase's Cloud FireStore Database and Google Map.
 This app represents that Customizable Beautiful UI can be implemented with the Best Performance possible.
 
+![Banner Image](https://github.com/AkashDivya/Explore-Flutter-FireStore/blob/master/images/Banner.jpg)
+
 # Things implemented in this App
 
 This was my first Flutter App. My intentions were to implement as many things as I can so that I can learn those things.
@@ -36,12 +38,12 @@ I kept the code as original as possible with prober Commented Guides for anyone 
   - Now Populate your FireStore Database
   - Now go to [Google API](https://console.developers.google.com/) and Enable **Maps SDK for Android** and get thi API Key.
   - Paste this API Key in the pecific area where I mentioned **"Your Map API Key here"** in **AndroidManifest.xml** file which can be found in _'yourDirectory'\exploreapp\android\app\src\main\_ like written below:
-  ```
-  <application>
+    ```
+    <application>
     ...
     <meta-data android:name="com.google.android.geo.API_KEY"
                android:value="Your Map API Key here"/>
-  ```
+    ```
   - Now you can Finally run VS-Code or Android Studio whichever you prefer and get the flutter packages and just run the App.
   
 # Check the APK
