@@ -8,7 +8,7 @@ This app represents that Customizable Beautiful UI can be implemented with the B
 # Things implemented in this App
 
 This was my first Flutter App. My intentions were to implement as many things as I can so that I can learn those things.
-This App contains implementation of the followings:
+This App contains the implementation of the followings:
   - Firebase's Cloud FireStore
   - Firebase's Cloud Storage
   - Custom Firebase Text by Text Search
@@ -62,11 +62,21 @@ Check the apk files included in this Repo. Install them on your device to test i
 
 # App Demonstration Video
 
-**_Coming Soon..._**
+  [![Explore - Flutter App Showcase](https://img.youtube.com/vi/Mb-b4zVODmk/0.jpg)](https://www.youtube.com/watch?v=Mb-b4zVODmk)
+  
+  [Watch Video on Youtube](https://www.youtube.com/watch?v=Mb-b4zVODmk)
 
 # About Me
 
 I'm a veteran Designer/Animator with **10+ years** of experience. I always hated the excuses Developers gave me when they fail to implement my Design. One day, when I found about Flutter I said no more & started learning it.
 This is my first App which I developed, and the design i took from dribbble [Link](https://dribbble.com/shots/6237475-Travel-Stories-Concept) and I also designed the parts which were not there.
 
-**Now go out there and do what you Want**
+# My Links
+
+**[Dribbble](https://www.dribbble.com/akashdivya)**
+
+**[Behance](https://www.behance.net/akashdivya)**
+
+**Email: akash.apd@gmail.com**
+
+**Now go out there and do what you Want.**
