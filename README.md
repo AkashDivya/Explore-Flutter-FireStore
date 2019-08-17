@@ -19,6 +19,7 @@ This App contains the implementation of the followings:
   - Dynamic Theme
   - Internet Connectivity Status
   - Customizing Status Bar & Navigation Tab
+  - PageView
   - Custom Icon & Splash Screen
   - Various Material Components
 
