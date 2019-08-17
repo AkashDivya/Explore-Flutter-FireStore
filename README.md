@@ -19,6 +19,7 @@ This App contains the implementation of the followings:
   - Dynamic Theme
   - Internet Connectivity Status
   - Customizing Status Bar & Navigation Tab
+  - Custom Icon & Splash Screen
   - Various Material Components
 
 # How to get this Repo and run it on your System
@@ -73,10 +74,12 @@ This is my first App which I developed, and the design i took from dribbble [Lin
 
 # My Links
 
+**[YouTube](https://www.youtube.com/channel/UCo7mhMbZXaNgpyT7gM6mWDQ)**
+
 **[Dribbble](https://www.dribbble.com/akashdivya)**
 
 **[Behance](https://www.behance.net/akashdivya)**
 
 **Email: akash.apd@gmail.com**
 
-**Now go out there and do what you Want.**
+**Now go out there and do what you Love.**
