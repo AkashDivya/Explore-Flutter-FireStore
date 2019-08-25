@@ -67,6 +67,10 @@ Check the apk files included in this Repo. Install them on your device to test i
   [![Explore - Flutter App Showcase](https://img.youtube.com/vi/Mb-b4zVODmk/0.jpg)](https://www.youtube.com/watch?v=Mb-b4zVODmk)
   
   [Watch Video on Youtube](https://www.youtube.com/watch?v=Mb-b4zVODmk)
+  
+# Local Assets & Json Data Variant
+
+If you are wondering how you can do it with local assets and json data you can visit this [Repo](https://github.com/AkashDivya/Explore-Flutter-LocalAssets-JSON)
 
 # About Me
 
